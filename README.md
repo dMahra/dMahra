@@ -1,6 +1,6 @@
 ### Hi I'm Darsh 👋🏾
   - 🔭 I'm entering my third year as a Data Science @ Purdue University. 
-  - 🌱 I’m currently learning about Information Systems and Artficial Intelligence this semester. 
+  - 🌱 I’m learning about Information Systems and Artficial Intelligence this semester. 
   - 📫 Reach me at: ![LinkedIn](https://www.linkedin.com/in/dmahra/) or my Email (dmahra@purdue.edu)
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dMahra&show_icons=true)
