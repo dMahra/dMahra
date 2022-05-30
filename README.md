@@ -1,4 +1,4 @@
-### Hi, I'm Darsh 👋🏽
+### I'm Darsh 👋🏽
   - 🔭 I'm entering my senior year as a Data Science student @ Purdue University. 
   - 🌱 I’m learning about Information Systems and Artficial Intelligence this semester. 
   - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dmahra/) or my Email (dmahra@purdue.edu)
