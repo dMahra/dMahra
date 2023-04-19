@@ -1,11 +1,11 @@
 ### I'm Darsh
   - 🔭 I'm a senior Data Science student @ Purdue University. 
-  - 🌱 I’m learning about Information Systems, Artficial Intelligence, and Data Visualization this year. 
+  - 🌱 I’m learning about Natural Language Processing and Human-Computer Interaction this semester. 
   - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dmahra/) or my Email (dmahra@purdue.edu)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dMahra&show_icons=true)
-
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dMahra&show_icons=true)
+ -->
 <!--
 **dMahra/dMahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
