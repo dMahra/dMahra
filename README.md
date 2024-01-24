@@ -1,7 +1,4 @@
-### I'm Darsh
-  - 🔭 I'm a senior Data Science student @ Purdue University. 
-  - 🌱 I’m learning about Natural Language Processing and Human-Computer Interaction this semester. 
-  - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dmahra/) or my Email (dmahra@purdue.edu)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dmahra/) or my Email (darsh.mahra@gmail.com)
 
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dMahra&show_icons=true)
