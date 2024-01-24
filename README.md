@@ -1,4 +1,4 @@
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dmahra/) or my Email (darsh.mahra@gmail.com)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dmahra/) or my Email (darsh.mahra@gmail.com)
 
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dMahra&show_icons=true)
